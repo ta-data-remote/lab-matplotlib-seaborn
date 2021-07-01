@@ -12,7 +12,7 @@ In this lab you will create different types of visualizations using `matplotlib`
 Open the `main.ipynb` file in the `your-code` directory. Read the challenges and add your code and comments.
 
 #### Challenge 2 
-Read this [article](http://scientists.social/visualization7) to learn more about visualization with `matplotlib`. 
+Read this [article](https://towardsdatascience.com/visualizations-with-matplotlib-part-1-c9651008b6b8) to learn more about visualization with `matplotlib`. 
 
 ## Deliverables
 
